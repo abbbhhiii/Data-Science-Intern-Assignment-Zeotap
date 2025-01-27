@@ -40,3 +40,9 @@ scikit-learn
 scipy
 Jupyter Notebook
 
+Clone the repository:
+git clone https://github.com/abbbhhiii/Data-Science-Intern-Assignment-Zeotap.git
+
+Navigate to the project directory:
+cd Data-Science-Intern-Assignment-Zeotap
+
